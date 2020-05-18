@@ -1,0 +1,50 @@
+/* Heading Section */
+.container-fluid {
+  padding: 2% 10% 1%;
+}
+
+.HeaderLogo {
+  max-width: 40%;
+  max-height: 40%;
+}
+
+.card-img-top {
+  border-radius: 10%;
+}
+
+.search-bar {
+  width: 100%;
+  margin-left: 30%;
+  margin-right: 30%
+}
+
+.form-inline .form-control {
+  width: 30%;
+}
+
+/* Navigaton Bar */
+.navbar {
+  padding: 0 0 ;
+}
+.nav-item {
+  padding: 0 16px;
+}
+
+.nav-link {
+  font-family: "Montserrat-light";
+  font-size: 1.3rem;
+}
+
+.dropdown-item {
+  font-family: "Montserrat-light";
+  font-size: 1rem;
+}
+
+/* Footer Section */
+.footer-section {
+  position: relative;
+  padding: 0 0;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: .7rem;
+}
